@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 30
-
+namespace 'com.alt.sms.autofill'
     defaultConfig {
         minSdkVersion 19
     }
